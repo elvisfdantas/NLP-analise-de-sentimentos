@@ -1,1 +1,1 @@
-# NLP-analise-de-sentimentos
+# PLN-analise-de-sentimentos
